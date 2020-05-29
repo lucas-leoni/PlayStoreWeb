@@ -1,0 +1,228 @@
+header {
+    background-color: #FFFFFF;
+    display: flex;
+    height: 47px;
+}
+body {
+    background-color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.apps {
+    background-color:#689F38;
+    color: #FFFFFF;
+    width: 200px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+}
+.a-apps {
+    display: flex;
+    width: 200px;
+    height: 47px;
+    align-items: center;
+    text-decoration: none;
+}
+.div-img-apps {
+    display: flex;
+    justify-content: center;
+    width: 73px;
+}
+.h1 {
+    font-size: 18px;
+    color: white;
+}
+.nav-header {
+    width: 980px;
+    height: 47px;
+}
+.conteudo-header {
+    display: flex;
+}
+.jogos {
+    margin-left: 38px;
+    width: 115px;
+    height: 47px;
+    display: flex;
+}
+.h2 {
+    font-size: 24px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    color: #737373;
+    padding-right: 5px;
+}
+.a-jogos {
+    display: flex;
+    width: 152px;
+    height: 47px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    cursor: default;
+}
+.a-jogos:hover {
+    background-color: #EEEEEE;
+}
+.subcategorias {
+    width: 138.63px;
+    height: 47px;
+    display: flex;
+}
+.h3 {
+    font-size: 14px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    color: #737373;
+    padding-right: 5px;
+}
+.a-subcategorias {
+    display: flex;
+    width: 138.63px;
+    height: 47px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    cursor: default;
+}
+.a-subcategorias:hover {
+    background-color: #EEEEEE;
+}
+.barra {
+    width: 11px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.barra-2 {
+    width: 1px;
+    height: 30px;
+    background-color: #d6d6d6;
+}
+.pessoal {
+    width: 77.95px;
+    height: 44px;
+    display: flex;
+    border-bottom: 3px solid #689F38;
+}
+.h4 {
+    font-size: 14px;
+    font-weight: bold;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    color: #333;
+}
+.a-pessoal {
+    display: flex;
+    width: 77.95px;
+    height: 44px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.a-pessoal:hover {
+    background-color: #EEEEEE;
+    border-bottom: 3px solid #689F38;
+}
+.em-alta {
+    width: 74.91px;
+    height: 47px;
+    display: flex;
+}
+.h5 {
+    font-size: 14px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    color: #737373;
+}
+.a-em-alta {
+    display: flex;
+    width: 74.91px;
+    height: 47px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.a-em-alta:hover {
+    background-color: #EEEEEE;
+}
+.lancamentos {
+    width: 112.88px;
+    height: 47px;
+    display: flex;
+}
+.h6 {
+    font-size: 14px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    color: #737373;
+}
+.a-lancamentos {
+    display: flex;
+    width: 112.88px;
+    height: 47px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.a-lancamentos:hover {
+    background-color: #EEEEEE;
+}
+.ajuda-e-configuracoes {
+    width: 135px;
+    height: 47px;
+    margin: 0px 0px 0px 413px;
+    display: flex;
+}
+.div-ajuda {
+    width: 59px;
+    height: 47px;
+    display: flex;
+    justify-content: center;
+}
+.div-configuracoes {
+    width: 75px;
+    height: 47px;
+    display: flex;
+    justify-content: center;
+}
+.a-ajuda {
+    width: 40px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid rgba(0,0,0,0.17);
+    align-self: center;
+    display: flex;
+    justify-content: center;
+}
+.a-ajuda:hover {
+    box-shadow: 0 1px 0 rgba(0,0,0,0.05);
+}
+.img-ajuda {
+    align-self: center;
+}
+.a-configuracoes {
+    width: 57px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid rgba(0,0,0,0.17);
+    align-self: center;
+    display: flex;
+    justify-content: center;
+}
+.a-configuracoes:hover {
+    box-shadow: 0 1px 0 rgba(0,0,0,0.05);
+}
+.img-configuracoes {
+    width: 21px;
+    height: 21px;
+    align-self: center;
+}
