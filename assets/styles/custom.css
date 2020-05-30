@@ -37,6 +37,8 @@ body {
 }
 .conteudo-header {
     display: flex;
+    background-color: #FFFFFF;
+    width: 1149px;
 }
 .jogos {
     margin-left: 38px;
@@ -179,7 +181,7 @@ body {
 .ajuda-e-configuracoes {
     width: 135px;
     height: 47px;
-    margin: 0px 0px 0px 413px;
+    padding: 0px 0px 0px 413px;
     display: flex;
 }
 .div-ajuda {
@@ -755,4 +757,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+@media (max-width: 600px) {
+    .main { flex-direction: column; align-items: center; }
+    .aside-left { order: 1; margin: 100px 0px 0px 0px; }
 }
