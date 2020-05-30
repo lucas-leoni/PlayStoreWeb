@@ -228,14 +228,13 @@ body {
 }
 .aside-left {
     width: 200px;
-    height: 463px;
+    height: 215px;
     background-color: #EDEDED;
-    border: 1px solid red;
     display: flex;
 }
 .seta-left {
     width: 24px;
-    height: 203px;
+    height: 215px;
     display: flex;
     background-color: #FFFFFF;
 }
@@ -246,6 +245,7 @@ body {
     display: flex;
     background-color: #F4F4F4;
     flex-direction: column;
+    height: 215px;
 }
 .meus-apps {
     width: 176px;
@@ -342,6 +342,7 @@ body {
     width: 176px;
     height: 30px;
     display: flex;
+    margin-bottom: 6px;
 }
 .a-escolha {
     display: flex;
@@ -352,6 +353,189 @@ body {
 }
 .h-escolha {
     width: 153px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.aside-left-2 {
+    width: 200px;
+    height: 260px;
+    display: flex;
+}
+.lista-2 {
+    display: flex;
+    background: rgba(238,238,238,0.95);
+    border-top: 1px solid #d9d9d9;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.1);
+    flex-direction: column;
+    height: 260px;
+    width: 200px;
+}
+.conta {
+    width: 177px;
+    height: 30px;
+    display: flex;
+    margin-top: 9px;
+}
+.a-conta {
+    display: flex;
+    text-decoration: none;
+}
+.a-conta:hover {
+    background-color: #E1E1E1;
+}
+.h-conta {
+    width: 177px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.formas {
+    width: 177px;
+    height: 30px;
+    display: flex;
+}
+.a-formas {
+    display: flex;
+    text-decoration: none;
+}
+.a-formas:hover {
+    background-color: #E1E1E1;
+}
+.h-formas {
+    width: 177px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.assinaturas {
+    width: 177px;
+    height: 30px;
+    display: flex;
+}
+.a-assinaturas {
+    display: flex;
+    text-decoration: none;
+}
+.a-assinaturas:hover {
+    background-color: #E1E1E1;
+}
+.h-assinaturas {
+    width: 177px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.resgatar {
+    width: 177px;
+    height: 30px;
+    display: flex;
+}
+.a-resgatar {
+    display: flex;
+    text-decoration: none;
+}
+.a-resgatar:hover {
+    background-color: #E1E1E1;
+}
+.h-resgatar {
+    width: 177px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.vale {
+    width: 177px;
+    height: 30px;
+    display: flex;
+}
+.a-vale {
+    display: flex;
+    text-decoration: none;
+}
+.a-vale:hover {
+    background-color: #E1E1E1;
+}
+.h-vale {
+    width: 177px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.desejos {
+    width: 177px;
+    height: 30px;
+    display: flex;
+}
+.a-desejos {
+    display: flex;
+    text-decoration: none;
+}
+.a-desejos:hover {
+    background-color: #E1E1E1;
+}
+.h-desejos {
+    width: 177px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.play {
+    width: 177px;
+    height: 30px;
+    display: flex;
+}
+.a-play {
+    display: flex;
+    text-decoration: none;
+}
+.a-play:hover {
+    background-color: #E1E1E1;
+}
+.h-play {
+    width: 177px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.guia {
+    width: 177px;
+    height: 30px;
+    display: flex;
+}
+.a-guia {
+    display: flex;
+    text-decoration: none;
+}
+.a-guia:hover {
+    background-color: #E1E1E1;
+}
+.h-guia {
+    width: 177px;
     height: 30px;
     color: #555;
     font-size: 14px;
