@@ -96,7 +96,7 @@ body {
     align-items: center;
     justify-content: center;
 }
-.barra-2 {
+.barra2 {
     width: 1px;
     height: 30px;
     background-color: #d6d6d6;
@@ -225,4 +225,137 @@ body {
     width: 21px;
     height: 21px;
     align-self: center;
+}
+.aside-left {
+    width: 200px;
+    height: 463px;
+    background-color: #EDEDED;
+    border: 1px solid red;
+    display: flex;
+}
+.seta-left {
+    width: 24px;
+    height: 203px;
+    display: flex;
+    background-color: #FFFFFF;
+}
+.img-seta-left {
+    align-self: center;
+}
+.lista {
+    display: flex;
+    background-color: #F4F4F4;
+    flex-direction: column;
+}
+.meus-apps {
+    width: 176px;
+    height: 36px;
+    display: flex;
+    margin-top: 6px;
+}
+.a-meus-apps {
+    display: flex;
+    text-decoration: none;
+}
+.a-meus-apps:hover {
+    background-color: #E7E7E7;
+}
+.h-meus-apps {
+    width: 153px;
+    height: 36px;
+    color: #555;
+    font-size: 18px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.comprar {
+    width: 176px;
+    height: 36px;
+    display: flex;
+}
+.a-comprar {
+    display: flex;
+    text-decoration: none;
+}
+.a-comprar:hover {
+    background-color: #E7E7E7;
+}
+.h-comprar {
+    width: 153px;
+    height: 36px;
+    color: #A5B15D;
+    font-size: 18px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.barra-2 {
+    width: 148px;
+    height: 1px;
+    margin: 14px;
+    background-color: #d6d6d6;
+}
+.jogos-2 {
+    width: 176px;
+    height: 30px;
+    display: flex;
+}
+.a-jogos-2 {
+    display: flex;
+    text-decoration: none;
+}
+.a-jogos-2:hover {
+    background-color: #E7E7E7;
+}
+.h-jogos-2 {
+    width: 153px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.familia {
+    width: 176px;
+    height: 30px;
+    display: flex;
+}
+.a-familia {
+    display: flex;
+    text-decoration: none;
+}
+.a-familia:hover {
+    background-color: #E7E7E7;
+}
+.h-familia {
+    width: 153px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
+}
+.escolha {
+    width: 176px;
+    height: 30px;
+    display: flex;
+}
+.a-escolha {
+    display: flex;
+    text-decoration: none;
+}
+.a-escolha:hover {
+    background-color: #E7E7E7;
+}
+.h-escolha {
+    width: 153px;
+    height: 30px;
+    color: #555;
+    font-size: 14px;
+    padding-left: 23px;
+    display: flex;
+    align-items: center;
 }
