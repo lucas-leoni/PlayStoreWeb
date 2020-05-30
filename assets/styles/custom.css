@@ -231,6 +231,7 @@ body {
     height: 215px;
     background-color: #EDEDED;
     display: flex;
+    flex-direction: column;
 }
 .seta-left {
     width: 24px;
@@ -342,7 +343,7 @@ body {
     width: 176px;
     height: 30px;
     display: flex;
-    margin-bottom: 6px;
+    margin-bottom: 18px;
 }
 .a-escolha {
     display: flex;
@@ -359,11 +360,6 @@ body {
     padding-left: 23px;
     display: flex;
     align-items: center;
-}
-.aside-left-2 {
-    width: 200px;
-    height: 260px;
-    display: flex;
 }
 .lista-2 {
     display: flex;
@@ -542,4 +538,221 @@ body {
     padding-left: 23px;
     display: flex;
     align-items: center;
+}
+.main {
+    display: flex;
+    height: 753px;
+    width: 1347px;
+}
+.conteudo {
+    width: 1147px;
+    height: 753px;
+    display: flex;
+    background-color: #EEEEEE;
+    flex-direction: column;
+}
+.rpg {
+    width: 890.59px;
+    height: 39px;
+    margin: 27px 17px 0px 58px;
+    display: flex;
+}
+.a-rpg {
+    display: flex;
+    text-decoration: none;
+}
+.h-rpg {
+    height: 39px;
+    color: #333;
+    font-size: 28px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.veja-mais {
+    width: 87.41px;
+    height: 30px;
+    background-color: #689f38;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    margin: 35px 0px 0px 0px;
+}
+.a-veja-mais {
+    display: flex;
+    text-decoration: none;
+}
+.a-veja-mais:hover {
+    box-shadow: 0 2px 0 rgba(0,0,0,0.05);
+    background-color: #8AC14D;
+    border-radius: 3px;
+}
+.h-veja-mais {
+    width: 87.41px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rpg-veja-mais {
+    width: 1147px;
+    display: flex;
+}
+.seta-lista {
+    display: flex;
+    flex-direction: row;
+}
+.boxs {
+    display: flex;
+}
+.box-1 {
+    width: 329px;
+    height: 258px;
+    display: flex;
+    margin: 18px 7px 0px 55px;
+}
+.duskwood {
+    width: 329px;
+    height: 258px;
+}
+.box-2 {
+    width: 329px;
+    height: 258px;
+    display: flex;
+    margin: 18px 7px 0px 0px;
+}
+.airline {
+    width: 329px;
+    height: 258px;
+}
+.box-3 {
+    width: 329px;
+    height: 258px;
+    display: flex;
+    margin: 18px 0px 0px 0px;
+}
+.bomber {
+    width: 329px;
+    height: 258px;
+}
+.veja-mais-2 {
+    width: 87.41px;
+    height: 30px;
+    background-color: #689f38;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    margin: 35px 0px 18px 965.69px;
+}
+.a-veja-mais-2 {
+    display: flex;
+    text-decoration: none;
+}
+.a-veja-mais-2:hover {
+    box-shadow: 0 2px 0 rgba(0,0,0,0.05);
+    background-color: #8AC14D;
+    border-radius: 3px;
+}
+.h-veja-mais-2 {
+    width: 87.41px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boxs-2 {
+    display: flex;
+}
+.box-4 {
+    width: 160px;
+    height: 245px;
+    display: flex;
+    margin: 0px 7px 0px 58px;
+}
+.yu-gi-oh {
+    width: 160px;
+    height: 245px;
+}
+.box-5 {
+    width: 160px;
+    height: 245px;
+    display: flex;
+    margin: 0px 7px 0px 0px;
+}
+.kart {
+    width: 160px;
+    height: 245px;
+}
+.box-6 {
+    width: 160px;
+    height: 245px;
+    display: flex;
+    margin: 0px 7px 0px 0px;
+}
+.mining {
+    width: 160px;
+    height: 245px;
+}
+.box-7 {
+    width: 160px;
+    height: 245px;
+    display: flex;
+    margin: 0px 7px 0px 0px;
+}
+.sniper {
+    width: 160px;
+    height: 245px;
+}
+.box-8 {
+    width: 160px;
+    height: 245px;
+    display: flex;
+    margin: 0px 7px 0px 0px;
+}
+.soccer {
+    width: 160px;
+    height: 245px;
+}
+.box-9 {
+    width: 160px;
+    height: 245px;
+    display: flex;
+}
+.war {
+    width: 160px;
+    height: 245px;
+}
+.veja-mais-3 {
+    width: 87.41px;
+    height: 30px;
+    background-color: #689f38;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    margin: 35px 0px 18px 965.69px;
+}
+.a-veja-mais-3 {
+    display: flex;
+    text-decoration: none;
+}
+.a-veja-mais-3:hover {
+    box-shadow: 0 2px 0 rgba(0,0,0,0.05);
+    background-color: #8AC14D;
+    border-radius: 3px;
+}
+.h-veja-mais-3 {
+    width: 87.41px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
